@@ -1,0 +1,15 @@
+---
+title: "HelloWorld"
+author: "LordGav"
+date: "7/13/2020"
+output: pdf_document
+---
+
+## This is a markdown file
+
+```{r}
+print("elon musk is a god")
+
+print("And now it lives on GitHub")
+```
+
